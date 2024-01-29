@@ -10,7 +10,7 @@ CalcDeltaApp is a Python application developed using PySimpleGUI for real-time P
 1.4. If negative control data is present, remove rows where Ct values are N/A.
 
 ### 2. Upload Excel File
-2.1. Click the "Browse" button to select the Excel file.
+2.1. Click the "Browse" button to select the Excel file. 
 2.2. Click the "Read" button to load the data into the app.
 
 ### 3. Reference Gene & Control Group Selection
